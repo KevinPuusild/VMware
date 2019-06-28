@@ -1,5 +1,5 @@
 # VMware
-VMware Skriptid
+VMware Skriptid / PowerCLI skriptid
 
 Kõik skriptid on loodud töö käigus ning neid tuleb teil endal enne kasutamist muuta
 
