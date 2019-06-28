@@ -3,6 +3,8 @@ VMware Skriptid / PowerCLI skriptid
 
 Kõik skriptid on loodud töö käigus ning neid tuleb teil endal enne kasutamist muuta
 
+Alati saab skripte paremaks kirjutada.
+
 Väike "Repo" kirjeldus:
 
 VMware_Create_Pools_and_Folders.ps1 - On mõeldud siis uuele domeeni gruppile vCenteris "RessourcePoolide" ja "Folderite" tegemiseks, kui on ette antud kasutajad.
