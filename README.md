@@ -12,3 +12,5 @@ VMware_Create_Pools_and_Folders.ps1 - On mõeldud siis uuele domeeni gruppile vC
 VMware_Create_VM_From_Template.ps1 - On mõeldud "Templatest" masinate tegemiseks, kui on ette antud kasutajad.
 
 VMware_Create_DvPortgroup.ps1 - Skript mis siis ise genereerib VLANi ning teeb ka valmis DvPortgroupi, samuti kirjutab kõik andmed ülesse CSV faili.
+
+VMware_Shutdown_Only_PowerOn_VMS.ps1 - Paneb kinni kõik virtuaal masinad ette antud "Clusteris" mis töötavad.
